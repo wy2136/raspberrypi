@@ -1,4 +1,4 @@
-# MiniDlna
+# Media Server: MiniDlna
 
 ### Guide
 
