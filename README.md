@@ -1,4 +1,4 @@
-# raspberrypi
+# RaspberryPi
 Fun with Raspberry Pi
 
 ## Table of Contents
