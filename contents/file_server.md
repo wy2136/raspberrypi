@@ -16,3 +16,7 @@
     #   directory mask = 0775
     #   read only = no
     #   browseable = yes
+    sudo service smbd restart
+
+### Reference
+* [Linux Samba configure file smb.conf explanation](http://www.1987.name/686.html)
