@@ -25,6 +25,6 @@ Change the owner and permission
 In case the mounted file system becomes read-only, try the following command before mounting 
 (from: https://adityalaghate.in/mount-hfsplus.html)
 
-    sudo mount /media/mydrive
+    sudo umount /media/mydrive
     fsck.hfsplus -f /dev/sdaX
     sudo mount -a
