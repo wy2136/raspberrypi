@@ -16,6 +16,7 @@
     #   directory mask = 0775
     #   read only = no
     #   browseable = yes
+    #   available = yes
     sudo service smbd restart
 
 ### Reference
