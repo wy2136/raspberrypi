@@ -16,7 +16,7 @@
     #   directory mask = 0775
     #   read only = no
     #   browseable = yes
-    #   available = yes
+    #   available = yes # so that my computer (Macbook) can find the server automatically
     sudo service smbd restart
 
 ### Reference
