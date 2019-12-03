@@ -26,5 +26,5 @@ In case the mounted file system becomes read-only, try the following command bef
 (from: https://adityalaghate.in/mount-hfsplus.html)
 
     sudo umount /media/mydrive
-    sudo fsck.hfsplus -f /dev/sdaX
+    sudo fsck.hfsplus -f /dev/sda2
     sudo mount -a
